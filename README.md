@@ -17,7 +17,6 @@ Overall, TourUp Muzaffarpur serves as a valuable resource for anyone planning to
 
 # Guide 
 To view this website just click on github-pages in Enviorment section OR 
-<a href="https://aashut0xh.github.io/TourUpMuzaffarpur/">Click Here</a> OR
 <a href="https://tourmuzaffarpur.netlify.app/">Click Here</a>
 
 
