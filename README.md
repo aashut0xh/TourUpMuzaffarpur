@@ -15,8 +15,8 @@ In addition to its informational content, TourUp Muzaffarpur encourages user eng
 
 Overall, TourUp Muzaffarpur serves as a valuable resource for anyone planning to visit Muzaffarpur. With its comprehensive information, intuitive interface, and user-generated content, the website aims to inspire, inform, and connect tourists with the cultural heritage and natural beauty of this fascinating city in Bihar.
 
-### guide : To view this website just click on github-pages in Enviorment section OR <a href="https://aashut0xh.github.io/TourUpMuzaffarpur/">Click Here</a>
+# guide 
+To view this website just click on github-pages in Enviorment section OR <a href="https://aashut0xh.github.io/TourUpMuzaffarpur/">Click Here</a>
 
 
-## Home page 
-![Screenshot 2023-05-20 175500](https://github.com/X-itachi-X/Sitamarhi-Institute-Of-Technology-unofficial/assets/104882734/d23916ce-2054-4677-83e6-fbc324b1013d)
+# Home page 
