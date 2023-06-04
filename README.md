@@ -15,40 +15,8 @@ In addition to its informational content, TourUp Muzaffarpur encourages user eng
 
 Overall, TourUp Muzaffarpur serves as a valuable resource for anyone planning to visit Muzaffarpur. With its comprehensive information, intuitive interface, and user-generated content, the website aims to inspire, inform, and connect tourists with the cultural heritage and natural beauty of this fascinating city in Bihar.
 
-### Requirements
-
-1. A C++ compiler, such as Visual Studio or Code::Blocks.
-2. The conio.h and Windows.h header files.
-
-### Running the Game
-
--> Clone the repository to your local machine.
-
--> Open the project in your preferred C++ IDE.
-
--> Build and run the project.
-
--> Use the arrow keys or the WASD keys to control the snake.
+### guide : To view this website just click on github-pages in Enviorment section OR <a href="https://aashut0xh.github.io/TourUpMuzaffarpur/">Click Here</a>
 
 
-### Code Overview
-
-• The game is divided into several functions, including game_Setup(), main_Menu(), normal_setup(), game_window(), game_input(), and game_program().
-
-• The game_Setup() function initializes some global variables that are used throughout the game.
-
-• The main_Menu() function displays the game's main menu.
-
-• The normal_setup() function initializes the game's variables and sets up the game board.
-
-• The game_window() function draws the game board and updates the score.
-
-• The game_input() function handles player input.
-
-• The game_program() function handles the game's logic, including moving the snake and checking for collisions.
-
-
-### Conclusion
-
-• This game is a simple implementation of the classic Snake game. It can be used as a starting point
-for more advanced game development or as a fun project for learning C++.
+## Home page 
+![Screenshot 2023-05-20 175500](https://github.com/X-itachi-X/Sitamarhi-Institute-Of-Technology-unofficial/assets/104882734/d23916ce-2054-4677-83e6-fbc324b1013d)
