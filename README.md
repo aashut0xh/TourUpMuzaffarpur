@@ -3,7 +3,8 @@
 This is a basic Project Developed in HTML,CSS & Javascript.
 
 
-#Overview
+# Overview
+
 One of the key features of TourUp Muzaffarpur is its detailed listings of popular tourist attractions in the city. Visitors can explore descriptions, photographs, and historical facts about places such as Baba Garib Nath Temple, Jubba Sahni Park and Muzaffarpur Railway Station, among others. These listings help tourists plan their itineraries and make informed decisions about which places to visit.
 
 Additionally, TourUp Muzaffarpur provides valuable insights into the local culture, traditions, and cuisine of the city. It offers a section dedicated to showcasing local festivals, art forms, and traditional crafts. Users can also find information about the popular dishes and eateries in Muzaffarpur, allowing them to savor the authentic flavors of the region.
